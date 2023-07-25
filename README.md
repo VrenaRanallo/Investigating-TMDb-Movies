@@ -1,2 +1,4 @@
 # Investigating-TMDb-Movies
-EDA Project Using TMDb 
+
+This is a simple EDA (Exploratory Data Analysis) to answer questions about movies using The Movie Database (TMDb). 
+
